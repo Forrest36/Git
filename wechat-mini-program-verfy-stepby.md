@@ -30,3 +30,6 @@
 
 步骤三：验证认证是否成功
 设置完成后，你可以尝试在微信开发者工具中进行一些 Git 操作，如拉取（Pull）或推送（Push）代码。如果操作成功，说明认证配置正确；若出现错误提示，请检查令牌是否正确、权限是否足够等。
+
+Personal access tokens
+ghp_RzhAEIgikzFEmCbhYtPDvTLNoUmWgu3bkBCy
